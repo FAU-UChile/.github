@@ -1,8 +1,10 @@
 ## FAU-UChile
 
-Esta organización concentra el trabajo del profesore Aarón Montoya-Moraga y sus colaboradores entre los años 2022 y 2025 en la Facultad de Arquitectura y Urbanismo de la Universidad de Chile.
+Esta organización concentra el trabajo del profesore Aarón Montoya-Moraga, ayudantes Ignacio Passalacqua Andrés Martin, Julio San Martín, monitores Vic Clavería, Ricardo Ramírez y Joaquín Pérez, y más colaboradores y estudiantes de las Escuelas de Diseño, Arquitectura y Geografía, durante 7 semestres entre marzo 2022 y julio 2025 en la Facultad de Arquitectura y Urbanismo de la Universidad de Chile.
 
-En este periodo dictamos estos cursos:
+Actualmente esta organización está archivada y en pausa mientras Aarón estudia en el Doctorado de Artes y Humanidades del Instituto de Estudios Avanzados de la Universidad de Santiago de Chile.
+
+Si quieres colaborar o tienes dudas por favor contactar a <https://github.com/montoyamoraga>.
 
 ### Cursos año 2022
 
@@ -48,41 +50,69 @@ En este periodo dictamos estos cursos:
   * Profesore: Aarón Montoya
   * Ayudante: Ignacio Passalacqua
   * Monitor: Joaquín Pérez
-  * Semestre: 2023-1
+  * Semestre: 2023-2
   * Fechas: agosto a diciembre 2023
 * aud20004-2023-2
   * Nombre: Física aplicada al diseño
   * Escuela: Diseño
   * Profesore: Aarón Montoya
   * Ayudante: Ignacio Passalacqua
-  * Semestre: 2023-1
+  * Semestre: 2023-2
   * Fechas: agosto a diciembre 2023
 
 ### Cursos año 2024
 
 * aud20004-2024-1
+  * Nombre: Física aplicada al diseño
+  * Escuela: Diseño
+  * Profesore: Aarón Montoya
+  * Ayudante: Andrés Martin
+  * Semestre: 2024-1
+  * Fechas: marzo a julio 2024
 * audiv027-2024-1
-* aud20004-2024-2
-* audiv027-2024-2
-* aug10002-2024-2
+  * Nombre: Inteligencia artifical
+  * Escuela: Diseño
+  * Profesore: Aarón Montoya
+  * Monitor: Ricardo Ramírez
+  * Semestre: 2024-1
+  * Fechas: marzo a julio 2024
+* aud20004-2024-2 <https://github.com/FAU-UChile/aud20004-2024-2>
+  * Nombre: Física aplicada al diseño
+  * Escuela: Diseño
+  * Profesore: Aarón Montoya
+  * Ayudante: Andrés Martin
+  * Semestre: 2024-2
+  * Fechas: agosto a diciembre 2024
+* audiv027-2024-2 <https://github.com/FAU-UChile/audiv027-2024-2>
+  * Nombre: Inteligencia artificial
+  * Escuela: Diseño
+  * Profesore: Aarón Montoya
+  * Monitore: Vic Clavería
+  * Semestre: 2024-2
+  * Fechas: agosto a diciembre 2024
+  * Extras: curso de doble sección para la Escuela de Arquitectura, sigla AUA70092
+* aug10002-2024-2 <https://github.com/FAU-UChile/aug10002-2024-2>
+  * Nombre: Física
+  * Escuela: Geografía
+  * Profesore: Aarón Montoya
+  * Ayudante: Andrés Martin
+  * Semestre: 2024-2
+  * Fechas: agosto a diciembre 2024
 
 ### Cursos año 2025
 
-* aud20004-2025-1
-* audiv027-2025-1
-
-
-
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* aud20004-2025-1 <https://github.com/FAU-UChile/aud20004-2025-1>
+  * Nombre: Física aplicada al diseño
+  * Escuela: Diseño
+  * Profesore: Aarón Montoya
+  * Ayudante: Andrés Martin
+  * Semestre: 2025-1
+  * Fechas: marzo a julio 2025
+* audiv027-2025-1 <https://github.com/FAU-UChile/audiv027-2025-1>
+  * Nombre: Inteligencia artificial
+  * Escuela: Diseño
+  * Profesore: Aarón Montoya
+  * Ayudante: Julio San Martín
+  * Semestre: 2025-1
+  * Fechas: marzo a julio 2025
+  * Extra: curso de doble sección para la Escuela de Arquitectura, con sigla AUA70092
