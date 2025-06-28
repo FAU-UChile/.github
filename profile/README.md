@@ -18,7 +18,7 @@ En este periodo dictamos estos cursos:
   * Profesore: Aarón Montoya
   * Semestre: 2022-2
   * Fechas: agosto a diciembre 2022
-* audiv020-2022-2
+* audiv020-2022-2 <https://github.com/FAU-UChile/audiv020-2022-2>
   * Nombre: Diseño de instrumentos musicales digitales
   * Escuela: Diseño
   * Profesore: Aarón Montoya
@@ -28,11 +28,35 @@ En este periodo dictamos estos cursos:
 
 ### Cursos año 2023
 
-* aud10004-2023-1
-* aud5v001-2-2023-1
+* aud10004-2023-1 <https://github.com/FAU-UChile/aud10004-2023-1>
+  * Nombre: Matemáticas aplicadas al diseño
+  * Escuela: Diseño
+  * Profesore: Aarón Montoya
+  * Ayudante: Ignacio Passalacqua
+  * Semestre: 2023-1
+  * Fechas: marzo a julio 2023
 * aud5i022-2023-1
+  * Nombre: Diseño de interfaz electrónica mediante Arduino
+  * Escuela: Diseño
+  * Profesore: Aarón Montoya
+  * Ayudante: Ignacio Passalacqua
+  * Semestre: 2023-1
+  * Fechas: marzo a julio 2023
 * audiv027-2023-2
+  * Nombre: Inteligencia Artificial
+  * Escuela: Diseño
+  * Profesore: Aarón Montoya
+  * Ayudante: Ignacio Passalacqua
+  * Monitor: Joaquín Pérez
+  * Semestre: 2023-1
+  * Fechas: agosto a diciembre 2023
 * aud20004-2023-2
+  * Nombre: Física aplicada al diseño
+  * Escuela: Diseño
+  * Profesore: Aarón Montoya
+  * Ayudante: Ignacio Passalacqua
+  * Semestre: 2023-1
+  * Fechas: agosto a diciembre 2023
 
 ### Cursos año 2024
 
